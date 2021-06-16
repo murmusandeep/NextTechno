@@ -1,0 +1,2 @@
+rootProject.name = "NextTechno"
+include ':app'

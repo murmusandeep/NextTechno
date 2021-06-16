@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NextTechno</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="sing_out">Sing Out</string>
+    <string name="date">Date</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="push">Push</string>
+</resources>
